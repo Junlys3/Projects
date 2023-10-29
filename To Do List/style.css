@@ -8,6 +8,7 @@
 
 body{
     background: url(imagens/background.jpg);
+    background-position: top center;
 }
 .container{
     background-color: rgba(169, 169, 169, 0.808);
@@ -64,6 +65,10 @@ body{
  
 }
 
+.do{
+    background-color: rgb(3, 104, 3);
+    text-decoration: line-through;
+}
 img{
     height: 80px;
     opacity: 0;
